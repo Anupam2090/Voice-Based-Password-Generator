@@ -21,7 +21,7 @@ A secure and innovative login system that uses voice/audio input as a password. 
 - Librosa (audio feature extraction)
 - NumPy
 - Bootstrap 5
-- HTML 
+- HTML
 
 ---
 
@@ -30,4 +30,5 @@ A secure and innovative login system that uses voice/audio input as a password. 
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/Anupam2090/Voice-Based-Password-Generator.git
-   cd audio-login-system
+   cd Voice-Based Password Generator
+   ```
