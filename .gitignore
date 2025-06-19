@@ -1,0 +1,23 @@
+# Ignore virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore environment configuration
+.env
+
+# Ignore Jupyter notebooks (optional, since not used)
+*.ipynb
+
+# Ignore uploaded audio files and generated password
+uploads/
+stored_password.txt
+
+# Ignore system files (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Sensitive
+audio_password.py
